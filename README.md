@@ -1,8 +1,8 @@
-# Blink Detector
+# Blink Detection
 
-Detects number of blinks for all faces in a video file or live video stream.
+Detects the number of blinks for all faces in a video file or live video stream.
 
-Shape Predictor used for facial landmarks prediction : shape_predictor_68_face_landmarks.dat
+Shape Predictor used for facial landmarks prediction: shape_predictor_68_face_landmarks.dat
 
 ### Requirements
 1. OpenCV 3.2.0
